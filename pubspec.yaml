@@ -1,5 +1,5 @@
 name: flutter_image_cropper_plus
-description: "A new Flutter plugin project."
+description: "Flutter plugin that provides image cropping functionality. It is designed to be easy to use and flexible, allowing developers to customize the cropping experience for their specific needs. The plugin supports both Android and iOS platforms, and it's built with Kotlin, Java, and Dart, using Gradle and Pub as package managers."
 version: 0.0.1
 homepage: https://github.com/dwikyhardi/flutter_image_cropper_plus
 
